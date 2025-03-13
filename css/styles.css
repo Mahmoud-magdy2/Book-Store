@@ -43,6 +43,19 @@ header .col-auto .links a {
   line-height: normal;
 }
 
+header .col-auto .button button {
+  color: var(--c-white);
+  font-family: Roboto;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  border-radius: 218px;
+  background: var(--c-grape-purple);
+  width: 191px;
+  height: 65px;
+}
+
 /* #endregion Mahmoud-Magdy */
 
 /* ______Abdo-Mahmoud______ */
